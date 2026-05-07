@@ -13,8 +13,9 @@ time series analysis assignment 1 &2
 - **Files Included**:
   - Jupyter Notebook (`Assignment2/notebook.ipynb`)
   - Report (`Assignment2/report.pdf`)
-  - Dataset (`Assignment2/data.csv`)--download
- i used :
+  - Dataset (`Assignment2/data.csv`)
+
+i used :
 - **Python** (Jupyter Notebook) for analysis
 - **Excel** for dataset preparation
   
