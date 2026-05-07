@@ -1,7 +1,7 @@
 # nyasha majuru R2420879 
 time series analysis assignment 1 &2
 
-## 📂 Contents
+## Contents
 
 ### Assignment 1 : Handbook addressing modeling challenges
  -i used the apple stock data to demonstrate and visualize the challenges
@@ -13,11 +13,10 @@ time series analysis assignment 1 &2
 - **Files Included**:
   - Jupyter Notebook (`Assignment2/notebook.ipynb`)
   - Report (`Assignment2/report.pdf`)
-  - Dataset (`Assignment2/data.csv`)--downloaded
-
-## 🛠️ Tools & Workflow
+  - Dataset (`Assignment2/data.csv`)--download
+ i used :
 - **Python** (Jupyter Notebook) for analysis
 - **Excel** for dataset preparation
   
-- README provides an overview for easy navigation and understanding.
+
 
