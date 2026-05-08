@@ -5,8 +5,7 @@ time series analysis assignment 1 &2
 
 ### Assignment 1 : Handbook addressing modeling challenges
  -i used the apple stock data to demonstrate and visualize the challenges
-  - Jupyter Notebook (`Assignment1/notebook.ipynb`)
-  
+ 
 ### Assignment 2 : Regime change detection in apple stock
 
 i used :
