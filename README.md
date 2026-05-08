@@ -1,4 +1,4 @@
-# nyasha majuru R2420879 
+# Nyasha Boniface Majuru R2420879 
 time series analysis assignment 1 &2
 
 ## Contents
@@ -7,17 +7,8 @@ time series analysis assignment 1 &2
  -i used the apple stock data to demonstrate and visualize the challenges
   - Jupyter Notebook (`Assignment1/notebook.ipynb`)
   
-
 ### Assignment 2 : Regime change detection in apple stock
--i used the apple stock data set
-- **Files Included**:
-  - Jupyter Notebook (`Assignment2/notebook.ipynb`)
-  - Report (`Assignment2/report.pdf`)
-  - Dataset (`Assignment2/data.csv`)
 
 i used :
 - **Python** (Jupyter Notebook) for analysis
 - **Excel** for dataset preparation
-  
-
-
